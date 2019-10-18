@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-@version: v1.0
+@version: v1.0.0
 @author: tutu
 @license:
 @contact:
